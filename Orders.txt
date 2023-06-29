@@ -1,0 +1,33 @@
+name: c1
+total price: 200
+----------------
+name: c1
+total price: 250
+----------------
+name: c2
+total price: 1900
+----------------
+name: cw
+total price: 500
+----------------
+name: cw
+total price: 1500
+----------------
+name: cw
+total price: 1500
+----------------
+name: we
+total price: 1500
+----------------
+name: w2
+total price: 1500
+----------------
+name: w2
+total price: 1500
+----------------
+name: retg
+total price: 1500
+----------------
+name: ggg
+total price: 1500
+----------------
